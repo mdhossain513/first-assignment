@@ -242,6 +242,7 @@ a{
   background-color: #F9FAFB;
   border-radius: 10px;
   padding: 2rem;
+  overflow: hidden;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -264,7 +265,7 @@ a{
   height: 40px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 868px) {
   .bpc-containers {
     grid-template-columns: 1fr;
     gap: 1rem;
