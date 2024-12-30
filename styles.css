@@ -265,7 +265,7 @@ a{
   height: 40px;
 }
 
-@media (max-width: 868px) {
+@media (max-width: 1068px) {
   .bpc-containers {
     grid-template-columns: 1fr;
     gap: 1rem;
